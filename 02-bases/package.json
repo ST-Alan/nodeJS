@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./src/app-03.js",
+    "start": "node ./src/app.js",
     "dev": "nodemon src/app-06-Promises.js",
     "start:dev": "echo 'Hola mundo desde Dev' ",
     "start:02": "nodemon src/app-old.js "
